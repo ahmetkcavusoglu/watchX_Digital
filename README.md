@@ -1,4 +1,4 @@
-Pong Clock
+Digital Clock
 ==========
 
 **This is for hardware revision V2.3**
